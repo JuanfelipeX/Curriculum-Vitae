@@ -9990,12 +9990,14 @@ a.text-dark:focus {
 .page-section .page-section-heading {
     font-size: 2.25rem;
     line-height: 2rem;
+    color: white;
 }
 
 @media (min-width: 992px) {
     .page-section .page-section-heading {
         font-size: 3rem;
         line-height: 2.5rem;
+        color: white;
     }
 }
 
@@ -10290,6 +10292,7 @@ form .row:first-child .floating-label-form-group {
 
 .page-section-heading {
     display: inline-block;
+    color: white !important;
 }
 
 .pre {
@@ -10318,4 +10321,14 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
     margin-bottom: 0.5rem;
+}
+
+.card-academic {
+    height: 25rem;
+    background-color: #202121;
+    width: 20rem;
+}
+
+.card-academic-img {
+    height: 17rem;
 }
