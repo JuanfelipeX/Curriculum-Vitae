@@ -10324,11 +10324,25 @@ form .row:first-child .floating-label-form-group {
 }
 
 .card-academic {
-    height: 25rem;
+    height: 28rem;
     background-color: #202121;
     width: 20rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 
 .card-academic-img {
-    height: 17rem;
+    height: 16rem;
+}
+
+.tecnologies {
+    margin-top: 2.5rem;
+    margin-bottom: 5rem;
+}
+
+.card-tecnologies-img {
+    height: 6.5rem;
+}
+
+.accordion-container {
+    background-color: #202121;
 }
