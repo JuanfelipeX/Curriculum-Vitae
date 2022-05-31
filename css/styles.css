@@ -10376,11 +10376,8 @@ form .row:first-child .floating-label-form-group {
     margin: 1rem;
 }
 
-.tecnologies-icons2 {}
-
-@media only screen and (max-width: 768px) {
-    /* For mobile phones: */
-    [class*="tecnologies-icons"] {
-        margin-left: 7.5rem;
-    }
+.tecnologies-icons2 {
+    font-size: 2rem;
+    margin: 1rem;
+    margin-top: 2rem;
 }
